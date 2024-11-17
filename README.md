@@ -42,9 +42,17 @@ Views 	Target variable. Number of views for particular video
  
 Scope: 
 ●	Sentiment analysis in a variety of forms 
+
+
 ●	Categorising YouTube videos based on their comments and statistics. 
-●	Training ML algorithms like RNNs to generate their own YouTube comments. 
+
+
+●	Training ML algorithms like RNNs to generate their own YouTube comments.
+
+
 ●	Analysing what factors affect how popular a YouTube video will be. 
+
+
 ●	Statistical analysis over time 
  
  
