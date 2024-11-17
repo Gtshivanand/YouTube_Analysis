@@ -1,9 +1,6 @@
 # YouTube_Analysis
 Read the youtube data and perform exploratory data analysis. 
- 
- 
- 
- 
+
 Youtube Video Statistics 
  
 Abstract: 
@@ -41,6 +38,8 @@ Views 	Target variable. Number of views for particular video
  
  
 Scope: 
+
+
 ●	Sentiment analysis in a variety of forms 
 
 
